@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'From Ants to Stars',
-  domain: 'vercel website',
+  domain: 'https://ants2stars.vercel.app/',
   author: 'Mr Nobody',
 
   // open graph metadata (optional)
