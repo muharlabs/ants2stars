@@ -297,7 +297,16 @@
   );
 }
 
-.notion-red_background,
+.notion-red_background {
+  background-image: linear-gradient(
+    119deg,
+    var(--bg-color),
+    #FBF3DB 10.5%,
+    #FBF3DB 85.29%,
+    var(--bg-color)
+  );
+}
+
 .notion-orange_background {
   /* light red */
   background-image: linear-gradient(
