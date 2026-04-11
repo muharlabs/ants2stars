@@ -300,7 +300,7 @@ background-color: transparent;
     119deg,
     var(--bg-color),
     #FBE4E4 10.5%,
-    #EFAAAA 85.29%
+    #EFAAAA 85.29%,
     var(--bg-color)
   );
 }
