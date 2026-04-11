@@ -296,7 +296,6 @@ background-color: transparent;
 }
 
 .notion-red_background {
-  background-color: #FBE4E4;
   background-image: linear-gradient(
     119deg,
     var(--bg-color),
