@@ -299,12 +299,10 @@
 
 .notion-red_background {
   background-image: linear-gradient(
-    119deg,
-    var(--bg-color),
-    #FBF3DB 10.5%,
-    #FBF3DB 85.29%,
-    var(--bg-color)
-  );
+  0deg,
+  #FBF3DB 0%,
+  #FBF3DB 100%
+);
 }
 
 .notion-orange_background {
