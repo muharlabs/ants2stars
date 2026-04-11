@@ -256,7 +256,7 @@
 .notion-orange_background,
 .notion-brown_background,
 .notion-gray_background {
-  background-image: none !important;
+background-color: transparent;
 }
 
 
@@ -296,11 +296,13 @@
 }
 
 .notion-red_background {
+  background-color: #FBE4E4;
   background-image: linear-gradient(
-  0deg,
-  #FBF3DB 0%,
-  #FBF3DB 100%
-);
+    119deg,
+    #FBE4E4 0%,
+    #F3BDBD 45%,
+    #EFAAAA 100%
+  ) !important;
 }
 
 .notion-orange_background {
