@@ -331,6 +331,11 @@
   );
 }
 
+.dark-mode [class*="_background"] {
+  color: #000 !important;
+  filter: brightness(0.95);
+}
+
 /* disable highlighting in dark mode */ 
 /*
 .dark-mode .notion-red_background,
