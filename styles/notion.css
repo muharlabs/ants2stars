@@ -331,7 +331,8 @@
   );
 }
 
-/* disable highlighting in dark mode */
+/* disable highlighting in dark mode */ 
+/*
 .dark-mode .notion-red_background,
 .dark-mode .notion-pink_background,
 .dark-mode .notion-blue_background,
@@ -346,6 +347,7 @@
   border-radius: 0;
   background: none !important;
 }
+*/
 
 /* if you don't want rounded page icon images, remove this */
 .notion-page-icon-hero.notion-page-icon-image {
