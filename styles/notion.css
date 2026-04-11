@@ -261,7 +261,7 @@
   border-bottom-left-radius: 0.125rem;
   box-decoration-break: clone;
 
-  background-color: none;
+   /* background-color: none; */
 
   /* light yellow */
   background-image: linear-gradient(
