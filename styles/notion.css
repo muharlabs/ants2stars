@@ -299,10 +299,11 @@ background-color: transparent;
   background-color: #FBE4E4;
   background-image: linear-gradient(
     119deg,
-    #FBE4E4 0%,
-    #F3BDBD 45%,
-    #EFAAAA 100%
-  ) !important;
+    var(--bg-color),
+    #FBE4E4 10.5%,
+    #EFAAAA 85.29%
+    var(--bg-color)
+  );
 }
 
 .notion-orange_background {
